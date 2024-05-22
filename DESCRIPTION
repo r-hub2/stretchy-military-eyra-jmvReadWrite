@@ -27,4 +27,4 @@ Suggests: jmv, jmvcore (>= 2.4.7), foreign, haven, knitr, rmarkdown,
         RProtoBuf, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-05-22 17:01:34 UTC; sje025
+Packaged: 2024-05-22 19:37:08 UTC; sje025
